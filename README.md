@@ -12,13 +12,13 @@ I build **production-grade ML systems** that turn messy, real-world data into ac
 ## 🚀 Portfolio Highlights
 
 | Project | What it shows |
-|---------|-------------------|---------------|
-| **[Research Hub](https://github.com/KoobDS/research-portfolio)** | DOE-sponsored grid outage ML, land-use econometrics, ORNL & UT K publications |
-| **[Extreme-Weather GNN](https://github.com/<username>/extreme-weather-gnn)** | GraphSAGE on climate grids · 95 % F1 · W&B tracking |
-| **[Armed-Conflict TCN](https://github.com/<username>/armed-conflict-tcn)** | Temporal ConvNet vs Random-Forest baselines |
-| **[Elden Ring Armor Optimizer](https://github.com/<username>/elden-ring-armor-optimizer)** | Constraint search · NumPy vectorisation · 50× speed-up |
-| **[Elden Ring Armor Optimizer](https://github.com/<username>/elden-ring-armor-optimizer)** | Constraint search · NumPy vectorisation · 50× speed-up |
-| **[Dream-City Finder](https://github.com/<username>/dream-city-finder)** | Recommender API · React/Leaflet map · Docker deploy |
+|---------|---------------|
+| **[Research Hub](https://github.com/KoobDS/research-portfolio)** | Power-outage prediction, Land use segmentation and dynamics, Dashboards |
+| **[Extreme-Weather GNN](https://github.com/KoobDS/extreme-weather-gnn)** | GraphSAGE on climate grids · 95 % AUROC · Causal-Inference |
+| **[Armed-Conflict TCN](https://github.com/KoobDS/armed-conflict-tcn)** | Temporal ConvNet vs. Random-Forest baselines, Ensemble |
+| **[Elden Ring Armor Optimizer](https://github.com/KoobDS/elden-ring-armor-optimizer)** | Constraint search · NumPy vectorisation · 50× speed-up |
+| **[Traffic Flow Simulation](https://github.com/KoobDS/traffic-signal-simulation)** | Synchronization · Surge · Mode-shift |
+| **Dream-City Finder (Under Repair)** | From-scratch recommender algorithm · Optimized path mapping |
 
 ---
 
