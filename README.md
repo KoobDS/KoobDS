@@ -11,14 +11,14 @@ I build **production-grade ML systems** that turn messy, real-world data into ac
 
 ## 🚀 Portfolio Highlights
 
-| Project | Demo / Screenshot | What it shows |
+| Project | What it shows |
 |---------|-------------------|---------------|
-| **[Research Hub](https://github.com/<username>/research-portfolio)** | — | DOE-sponsored grid outage ML, land-use econometrics, ORNL & UT K publications |
-| **[Extreme-Weather GNN](https://github.com/<username>/extreme-weather-gnn)** | ![](https://raw.githubusercontent.com/<username>/extreme-weather-gnn/main/docs/roc.png) | GraphSAGE on climate grids · 95 % F1 · W&B tracking |
-| **[Armed-Conflict TCN](https://github.com/<username>/armed-conflict-tcn)** | ![](https://raw.githubusercontent.com/<username>/armed-conflict-tcn/main/docs/results.png) | Temporal ConvNet vs Random-Forest baselines |
-| **[Elden Ring Armor Optimizer](https://github.com/<username>/elden-ring-armor-optimizer)** | ![](https://raw.githubusercontent.com/<username>/elden-ring-armor-optimizer/main/docs/demo.gif) | Constraint search · NumPy vectorisation · 50× speed-up |
-| **[Elden Ring Armor Optimizer](https://github.com/<username>/elden-ring-armor-optimizer)** | ![](https://raw.githubusercontent.com/<username>/elden-ring-armor-optimizer/main/docs/demo.gif) | Constraint search · NumPy vectorisation · 50× speed-up |
-| **[Dream-City Finder](https://github.com/<username>/dream-city-finder)** | ![](https://raw.githubusercontent.com/<username>/dream-city-finder/main/docs/map.gif) | Recommender API · React/Leaflet map · Docker deploy |
+| **[Research Hub](https://github.com/KoobDS/research-portfolio)** | DOE-sponsored grid outage ML, land-use econometrics, ORNL & UT K publications |
+| **[Extreme-Weather GNN](https://github.com/<username>/extreme-weather-gnn)** | GraphSAGE on climate grids · 95 % F1 · W&B tracking |
+| **[Armed-Conflict TCN](https://github.com/<username>/armed-conflict-tcn)** | Temporal ConvNet vs Random-Forest baselines |
+| **[Elden Ring Armor Optimizer](https://github.com/<username>/elden-ring-armor-optimizer)** | Constraint search · NumPy vectorisation · 50× speed-up |
+| **[Elden Ring Armor Optimizer](https://github.com/<username>/elden-ring-armor-optimizer)** | Constraint search · NumPy vectorisation · 50× speed-up |
+| **[Dream-City Finder](https://github.com/<username>/dream-city-finder)** | Recommender API · React/Leaflet map · Docker deploy |
 
 ---
 
@@ -34,7 +34,7 @@ I build **production-grade ML systems** that turn messy, real-world data into ac
 - Curated satellite-imagery dataset; trained multiple land-use/land-cover segmenters across architectures, bands, and pre-training strategies.  
 - **1 000× inference-speed** & **4 000× finer granularity** at **0.86 acc / 0.58 mIoU**.  
 - Few-shot learning experiments for rapid class adaptation.  
-- [Poster](Graduate/Land_Use_Classification/Poster.png).
+- [Poster](https://github.com/KoobDS/research-portfolio/blob/main/Graduate/Land_Use_Classification/Poster.pdf).
 
 ### University of Tennessee, Knoxville — **Ag & Resource Economics**  
 *(Apr 2023 – Aug 2024)*  
