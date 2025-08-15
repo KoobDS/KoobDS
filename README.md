@@ -18,7 +18,7 @@ I build **production-grade ML systems** that turn messy, real-world data into ac
 | **[Armed-Conflict TCN](https://github.com/KoobDS/armed-conflict-tcn)** | Temporal ConvNet vs. Random-Forest baselines, Ensemble |
 | **[Elden Ring Armor Optimizer](https://github.com/KoobDS/elden-ring-armor-optimizer)** | Constraint search · NumPy vectorisation · 50× speed-up |
 | **[Traffic Flow Simulation](https://github.com/KoobDS/traffic-signal-simulation)** | Synchronization · Surge · Mode-shift |
-| **[(Dream-City Finder)](https://github.com/KoobDS/dream-city-finder)** | From-scratch recommender algorithm · Optimized path mapping |
+| **[Dream-City Finder](https://github.com/KoobDS/dream-city-finder)** | From-scratch recommender algorithm · Optimized path mapping |
 
 ---
 
