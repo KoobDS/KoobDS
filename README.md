@@ -68,5 +68,5 @@ We found that acreage of individual land-cover types can significantly predict t
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/<your-handle>/](https://www.linkedin.com/in/benjaminkoob/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/benjaminkoob/)
 [![Email](https://img.shields.io/badge/-Email-informational?logo=gmail)](mailto:benjaminlkoob@gmail.com)
