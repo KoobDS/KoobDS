@@ -3,9 +3,9 @@
 |  |  |
 |--|--|
 | 🛰️  **Graduate Researcher, Geospatial Data Modeling Group – Oak Ridge National Laboratory** | 🎓 **M.S. Analytics** (Georgia Tech, Jul 2025) · **B.S. Quant Econ & Math** (UT Knoxville, May 2024) |
-| 🔭  Focus: geospatial AI · energy-grid forecasting · graph ML | ⚙️  Stack: Python · PyTorch · TensorFlow · Docker · Postgres |
+| 🔭  Focus: geospatial AI · grid forecasting · graph ML | ⚙️  Stack: Python · PyTorch · TensorFlow · Docker · Postgres |
 
-I build **production-grade ML systems** that turn messy, real-world data into actionable insights for climate resilience, energy reliability, and occasionally video game optimization.
+I build **production-grade ML systems** that turn messy, real-world data into actionable insights for climate resilience, energy reliability, and occasionally video-game optimization.
 
 ---
 
