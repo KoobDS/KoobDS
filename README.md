@@ -1,5 +1,6 @@
 # Hi, I’m Benjamin Koob
 
+|  |  |
 |--|--|
 | 🌎  **Graduate Researcher, Geospatial Data Modeling Group – Oak Ridge National Laboratory** | 🎓 **M.S. Analytics** (Georgia Tech, Aug 2025) · **B.S. Quant Econ & Math** (UT Knoxville, May 2024) |
 | 🔭  Focus: Geospatial AI · Grid forecasting · Graph ML | ⚙️  Stack: Python · PyTorch · TensorFlow · Docker · Postgres |
