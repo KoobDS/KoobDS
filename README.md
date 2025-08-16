@@ -65,5 +65,5 @@ I build **production-grade ML systems** that turn messy, real-world data into ac
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminkoob/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminkoob/)
 [![Email](https://img.shields.io/badge/-Email-informational?logo=gmail)](mailto:benjaminlkoob@gmail.com)
