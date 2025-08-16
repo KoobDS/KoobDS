@@ -2,7 +2,7 @@
 
 |  |  |
 |--|--|
-| 🛰️  **Graduate Researcher, Geospatial Data Modeling Group – Oak Ridge National Laboratory** | 🎓 **M.S. Analytics** (Georgia Tech, Jul 2025) · **B.S. Quant Econ & Math** (UT Knoxville, May 2024) |
+| 🛰️  **Graduate Researcher, Geospatial Data Modeling Group – Oak Ridge National Laboratory** | 🎓 **M.S. Analytics** (Georgia Tech, Aug 2025) · **B.S. Quant Econ & Math** (UT Knoxville, May 2024) |
 | 🔭  Focus: geospatial AI · grid forecasting · graph ML | ⚙️  Stack: Python · PyTorch · TensorFlow · Docker · Postgres |
 
 I build **production-grade ML systems** that turn messy, real-world data into actionable insights for climate resilience, energy reliability, and occasionally video-game optimization.
@@ -62,7 +62,7 @@ We found that acreage of individual land-cover types can significantly predict t
 
 ## 🎓 Education
 
-- **M.S. Analytics (Computational Data Analytics track)** — *Georgia Institute of Technology*, Jul 2025  
+- **M.S. Analytics (Computational Data Analytics track)** — *Georgia Institute of Technology*, Aug 2025  
 - **B.S. Economics (Quantitative Econ & Mathematics), Minor: Data Science** — *University of Tennessee, Knoxville*, May 2024  
 
 ---
