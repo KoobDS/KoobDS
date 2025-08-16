@@ -3,7 +3,7 @@
 |  |  |
 |--|--|
 | 🌎  **Graduate Researcher, Geospatial Data Modeling Group – Oak Ridge National Laboratory** | 🎓 **M.S. Analytics** (Georgia Tech, Aug 2025) · **B.S. Quant Econ & Math** (UT Knoxville, May 2024) |
-| 🔭  Focus: geospatial AI · grid forecasting · graph ML | ⚙️  Stack: Python · PyTorch · TensorFlow · Docker · Postgres |
+| 🔭  Focus: Geospatial AI · Grid forecasting · Graph ML | ⚙️  Stack: Python · PyTorch · TensorFlow · Docker · Postgres |
 
 I build **production-grade ML systems** that turn messy, real-world data into actionable insights for climate resilience, energy reliability, and occasionally video game optimization.
 
@@ -19,7 +19,6 @@ I build **production-grade ML systems** that turn messy, real-world data into ac
 | **[Dream-City Finder](https://github.com/KoobDS/dream-city-finder)** | From-scratch recommender algorithm · Optimized path mapping |
 | **[Traffic Flow Simulation](https://github.com/KoobDS/traffic-flow-simulation)** | Synchronization · Surge · Mode-shift |
 | **[Elden Ring Armor Optimizer](https://github.com/KoobDS/elden-ring-armor-optimizer)** | Constraint search · NumPy vectorization · 50× speed-up |
-
 
 ---
 
