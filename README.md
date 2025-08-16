@@ -39,10 +39,7 @@ I build **production-grade ML systems** that turn messy, real-world data into ac
 ### University of Tennessee, Knoxville — **Ag & Resource Economics**  
 *(Apr 2023 – Aug 2024)*  
 - **SUR econometric model** on U.S. land-use interactions → first-author paper (under review).  
-<details><summary>Major finding (click)</summary>
-
-We found that acreage of individual land-cover types can significantly predict the acreage of most other types&hellip; *(full paragraph here)*.
-</details>
+- We found that acreage of individual land-cover types can significantly predict the acreage of most other types; [full paragraph](https://github.com/KoobDS/research-hub?tab=readme-ov-file#led-research-on-us-land-use-dynamics-april-2023---august-2024).
 
 - Built **farmer- and policymaker-facing Tableau dashboards** used by TN state agencies.  
 - Automated **farmland-pricing** data pipeline & regression analysis.
