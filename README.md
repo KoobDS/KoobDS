@@ -34,12 +34,12 @@ I build **production-grade ML systems** that turn messy, real-world data into ac
 - Curated satellite-imagery dataset; trained multiple land-use/land-cover segmenters across architectures, bands, and pre-training strategies.  
 - **1 000× inference-speed** & **4 000× finer granularity** at **0.86 acc / 0.58 mIoU**.  
 - Few-shot learning experiments for rapid class adaptation.  
-- [Poster](https://github.com/KoobDS/research-portfolio/blob/main/Graduate/Land_Use_Classification/Poster.pdf).
+- See [poster](https://github.com/KoobDS/research-portfolio/blob/main/Graduate/Land_Use_Classification/Poster.pdf).
 
 ### University of Tennessee, Knoxville — **Ag & Resource Economics**  
 *(Apr 2023 – Aug 2024)*  
 - **SUR econometric model** on U.S. land-use interactions → first-author paper (under review).  
-- We found that acreage of individual land-cover types can significantly predict the acreage of most other types; [full paragraph](https://github.com/KoobDS/research-hub?tab=readme-ov-file#led-research-on-us-land-use-dynamics-april-2023---august-2024).
+- We found that acreage of individual land-cover types can significantly predict the acreage of most other types; see [full paragraph](https://github.com/KoobDS/research-hub?tab=readme-ov-file#led-research-on-us-land-use-dynamics-april-2023---august-2024).
 
 - Built **farmer- and policymaker-facing Tableau dashboards** used by TN state agencies.  
 - Automated **farmland-pricing** data pipeline & regression analysis.
