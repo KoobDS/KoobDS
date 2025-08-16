@@ -13,9 +13,9 @@ I build **production-grade ML systems** that turn messy, real-world data into ac
 
 | Project | What it shows |
 |---------|---------------|
-| **[Research Hub](https://github.com/KoobDS/research-hub)** | Power-outage prediction, Land use segmentation and dynamics, Dashboards |
-| **[Extreme-Weather GNN](https://github.com/KoobDS/extreme-weather-gnn)** | GraphSAGE on climate grids · 0.95 AUROC · Causal-Inference |
-| **[Armed-Conflict TCN](https://github.com/KoobDS/armed-conflict-tcn)** | Temporal ConvNet vs. Random-Forest baselines, Ensemble |
+| **[Research Hub](https://github.com/KoobDS/research-hub)** | Power-outage prediction · Land use segmentation & dynamics · Dashboards |
+| **[Extreme-Weather GNN](https://github.com/KoobDS/extreme-weather-gnn)** | GraphSAGE on climate grids · 0.95 AUROC · Causal inference |
+| **[Armed-Conflict TCN](https://github.com/KoobDS/armed-conflict-tcn)** | Temporal ConvNet · Random-Forest baseline · Ensemble |
 | **[Dream-City Finder](https://github.com/KoobDS/dream-city-finder)** | From-scratch recommender algorithm · Optimized path mapping |
 | **[Traffic Flow Simulation](https://github.com/KoobDS/traffic-flow-simulation)** | Synchronization · Surge · Mode-shift |
 | **[Elden Ring Armor Optimizer](https://github.com/KoobDS/elden-ring-armor-optimizer)** | Constraint search · NumPy vectorization · 50× speed-up |
