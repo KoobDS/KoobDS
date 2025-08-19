@@ -41,7 +41,7 @@ I build **production-grade ML systems** that turn messy, real-world data into ac
 - **SUR econometric model** on U.S. land-use interactions → first-author paper (under review).  
 - We found that acreage of individual land-cover types can significantly predict the acreage of most other types; see [full paragraph](https://github.com/KoobDS/research-hub?tab=readme-ov-file#led-research-on-us-land-use-dynamics-april-2023---august-2024).
 
-- Built **farmer- and policymaker-facing Tableau dashboards** used by TN state agencies.  
+- Built farmer- and policymaker-facing Tableau dashboards **adopted by 3 TN state agencies (25k+ views)**.
 - Automated **farmland-pricing** data pipeline & regression analysis.
 
 ---
