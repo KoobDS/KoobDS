@@ -26,7 +26,7 @@ I build **production-grade ML systems** that turn messy, real-world data into ac
 
 ### Oak Ridge National Laboratory — **Geospatial Data Modeling Group**  
 *(May 2025 – Aug 2025)*  
-- **Extreme outage event categorization** for U.S. utilities (first-author manuscript in review; invention disclosure filed).  
+- **Extreme outage event categorization** for U.S. utilities (first-author paper accepted to ACM SIGSPATIAL 2025; invention disclosure filed).  
 - Built outage-cluster–aware forecasting to improve DOE risk assessment and crew pre-staging.
 
 ### Oak Ridge National Laboratory — **GeoAI Group**  
