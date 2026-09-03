@@ -2,10 +2,10 @@
 
 |  |  |
 |--|--|
-| 🌎  **ML Engineer — computer vision for satellite & aerial imagery** | 🎓 **M.S. Analytics** (Georgia Tech, Aug 2025) · **B.S. Quant Econ & Math** (UT Knoxville, May 2024) |
+| 🌎  **ML Engineer** · Computer vision for satellite & aerial imagery | 🎓 **M.S. Analytics** (Georgia Tech, Aug 2025) · **B.S. Quant Econ & Math** (UT Knoxville, May 2024) |
 | 🔭  Focus: Computer Vision · Geospatial AI · Remote Sensing | ⚙️  Tools: Python · PyTorch · TensorFlow · Docker · Kubernetes · Postgres · Linux |
 
-I build ML systems that turn messy, real-world data into usable outputs — imagery segmentation, model evaluation, and the pipelines that keep results reproducible — plus the occasional video game optimizer.
+I build ML systems that turn messy, real-world data into usable outputs: imagery segmentation, model evaluation, and the pipelines that keep results reproducible. Plus the occasional video game optimizer.
 
 ---
 
@@ -32,7 +32,7 @@ I build ML systems that turn messy, real-world data into usable outputs — imag
 ### Oak Ridge National Laboratory — **GeoAI and Geospatial Data Modeling Groups**
 *(Sep 2024 – Aug 2025)*
 - Rebuilt an in-house land-cover model from patch-based classification to **semantic segmentation**; **600× faster inference** and **4,000× denser classification** at **0.86 accuracy / 0.58 mIoU** across 11 classes at 10m resolution.
-- **Extreme outage event categorization** for U.S. utilities — first-author paper published at [ACM SIGSPATIAL 2025](https://dl.acm.org/doi/10.1145/3764926.3771940); invention disclosure filed.
+- **Extreme outage event categorization** for U.S. utilities; first-author paper published at ACM SIGSPATIAL 2025; invention disclosure filed.
 - Full write-up in the [Research Hub](https://github.com/KoobDS/research-hub); segmentation [poster](https://github.com/KoobDS/research-hub/blob/main/Graduate/Land_Use_Classification/Poster.pdf).
 
 ### University of Tennessee, Knoxville — **Ag & Resource Economics**
